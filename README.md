@@ -420,7 +420,7 @@ void key()
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![Uploading image.png…]()
+<img width="1128" height="940" alt="image" src="https://github.com/user-attachments/assets/b695cd0a-867f-49b5-a3d1-466699ad2fe2" />
 
  
 ## Result :
